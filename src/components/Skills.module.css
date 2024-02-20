@@ -1,0 +1,36 @@
+.skills {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skillheader {
+  margin-bottom: 1rem;
+}
+
+.skillswrapper img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 11.875rem;
+  height: 11.25rem;
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+.skillicon {
+  transition: opacity 0.1s;
+}
+
+.skillicon:hover {
+  opacity: 0.8; /* Adjust opacity as desired */
+}
+
+p {
+  text-align: center;
+  margin-bottom: 1rem;
+}

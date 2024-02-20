@@ -1,0 +1,49 @@
+.projects {
+  background-color: var(--bg-color);
+  padding: 32px 0;
+  margin-top: 2rem;
+}
+
+.projectpic {
+  width: 65%;
+  height: 60%;
+}
+
+.projectpicATM {
+  width: 60%;
+  height: 55%;
+}
+
+.projectscontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.projectstitle {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.projectcontainer {
+  text-align: center;
+  width: 21.875rem;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--primary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+
+.projectcontainer p {
+  padding: 0.4rem;
+}
+
+.projecttitle {
+  margin-bottom: var(--bottom-margin);
+}
+
+.projectdetails {
+  margin-bottom: var(--bottom-margin);
+}
