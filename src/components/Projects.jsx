@@ -58,7 +58,7 @@ const Projects = () => {
             user-friendly interfaces. Utilized React components for modular and
             efficient code structure.
           </p>
-          <a href="#" target="_blank" className={styles.projectlink}>
+          <a href="https://my-portfolio-ashen-delta.vercel.app/" target="_blank" className={styles.projectlink}>
             Check it Out
           </a>
         </div>
